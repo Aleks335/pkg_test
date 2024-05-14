@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/Aleks335/pkg_test/test1"
 	"github.com/go-chi/chi/v5"
 	"net/http"
-	"pkg_test/test1"
 )
 
 func main() {
