@@ -1,6 +1,8 @@
 package counter
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func Counte(num1 int, num2 int) {
 
