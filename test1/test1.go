@@ -1,6 +1,6 @@
 package test1
 
-import "pkg_test/pkg/counter"
+import "github.com/Aleks335/pkg_test/pkg/counter"
 
 func Start1() {
 	counter.Counte(0, 100)
