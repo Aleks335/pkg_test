@@ -1,4 +1,4 @@
-module pkg_test
+module github.com/Aleks335/pkg_test
 
 go 1.22.1
 
